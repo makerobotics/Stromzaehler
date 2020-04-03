@@ -12,8 +12,7 @@ Read SML protocol IR frames by DIO.
 Decode Smartmeter sml frame and extract power and total consumption.
 Publish to MQTT topic.
 
-
 ## References:
-https://wiki.volkszaehler.org/
+https://wiki.volkszaehler.org
 https://forum.arduino.cc/index.php?topic=548325.0
-https://www.photovoltaikforum.com/thread/112216-sml-protokoll-hilfe-gesucht-sml-esp8266-mqtt/
+https://www.photovoltaikforum.com/thread/112216-sml-protokoll-hilfe-gesucht-sml-esp8266-mqtt
