@@ -1,4 +1,4 @@
-# Stromzaehler
+# Stromzähler
 Read out electricity meter with nodemcu and send per MQTT into home network.
 
 ## Hardware
